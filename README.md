@@ -3,8 +3,8 @@ GithubAplication is a simple application where you can check by endpoint public 
 
 GET http://localhost:8080/api/github/repos/{{username}} 
 
-In response you will acquired GeneralResponse
-which have three fields in positive cases chould be returned status and object but in negative cases you will receive status and message why request failed.
+In response you will acquired GeneralResponse which have three fields.
+In positive cases chould be returned status and object but in negative cases you will receive status and message why request failed.
 
 To run application you need:
 JDK 23, 
