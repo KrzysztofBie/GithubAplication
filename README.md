@@ -11,7 +11,7 @@ JDK 23,
 internet connection.
 
 To run by cmd please:
-1. Install Java, maven and build jav by mvn clean install
+1. Install Java, maven and build jar by mvn clean install
 2. Run command: "java -jar Application.jar"
 3. Use for example browser by pasting http://localhost:8080/api/github/repos/octocat in url
 
